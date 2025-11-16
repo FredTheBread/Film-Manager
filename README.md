@@ -60,6 +60,10 @@ Film-Manager/
 ├── dist/ # Compiled JAR output
 ├── build.xml # Ant build script
 ├── nbproject/ # NetBeans project metadata
-├── .idea/ # IntelliJ config (if applicable)
 └── FilmFX.iml # IDE module file
 ```
+---
+
+## Licence
+This project does not currently have a specified license.
+
